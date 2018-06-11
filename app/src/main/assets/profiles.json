@@ -1,0 +1,362 @@
+[  
+   {
+      "id":1,
+      "imageUrl":"jeans/1.1.jpeg",
+      "name":"John Players Skinny Men's Blue Jeans",
+      "price":"Rs. 1,186",
+      "description":"Fit: Skinny Fit | Fabric: Cotton | Light Fade Low Rise Jeans | Clean Look",
+      "category":"Jeans",
+      "gender":"Male"
+   },
+   {
+      "id":2,
+      "imageUrl":"jeans/2.1.jpeg",
+      "name":"Peter England University Skinny Men's Blue Jeans",
+      "price":"Rs. 1,279",
+      "description":"Fit: PE-US-LowSkinnyFit | Fabric: 98%Cotton2%Lycra | Light Fade Mid Rise Jeans | Clean Look",
+      "category":"Jeans",
+      "gender":"Male"
+   },
+   {
+      "id":3,
+      "imageUrl":"jeans/3.1.jpeg",
+      "name":"John Players Slim Men's Blue Jeans",
+      "price":"Rs. 1,329",
+      "description":"Fit: Slim Fit | Fabric: Cotton | Light Fade Mid Rise Jeans | Mild Distress",
+      "category":"Jeans",
+      "gender":"Male"
+   },
+   {
+      "id":4,
+      "imageUrl":"jeans/4.1.jpeg",
+      "name":"Flying Machine Slim Men's Blue Jeans",
+      "price":"Rs. 1,349",
+      "description":"Fit: Slim | Fabric: 86% Cotton 7% Viscose 5% Polyester 2% Lycra | Light Fade Mid Rise Jeans | Clean Look",
+      "category":"Jeans",
+      "gender":"Male"
+   },
+   {
+      "id":5,
+      "imageUrl":"jeans/5.1.jpeg",
+      "name":"John Players Skinny Men's Blue Jeans",
+      "price":"Rs. 1,424",
+      "description":"Fit: Comfort Skinny Fit | Fabric: Cotton | Heavy Fade Mid Rise Jeans | Mild Distress",
+      "category":"Jeans",
+      "gender":"Male"
+   },
+   {
+      "id":6,
+      "imageUrl":"jeans/6.1.jpeg",
+      "name":"John Players Slim Men's Blue Jeans",
+      "price":"Rs. 1,785",
+      "description":"Fit: Slim Fit | Fabric: Cotton | Light Fade | Clean Look",
+      "category":"Jeans",
+      "gender":"Male"
+   },
+   {
+      "id":7,
+      "imageUrl":"jeans/7.1.jpeg",
+      "name":"Crease & Clips Slim Women's Black Jeans",
+      "price":"Rs. 419",
+      "description":"Fit: Slim | Fabric: Denim | Mid Rise Jeans | Clean Look",
+      "category":"Jeans",
+      "gender":"Female"
+   },
+   {
+      "id":8,
+      "imageUrl":"jeans/8.1.jpeg",
+      "name":"Sfine Slim Women Grey Jeans",
+      "price":"Rs. 749",
+      "description":"Fit: Slim Fit | Fabric: Denim | Mid Rise Jeans | Clean Look",
+      "category":"Jeans",
+      "gender":"Female"
+   },
+   {
+      "id":9,
+      "imageUrl":"jeans/9.1.jpeg",
+      "name":"Flying Machine Skinny Women's Light Blue Jeans",
+      "price":"Rs. 599",
+      "description":"Fit: Skinny | Fabric: Cotton Lycra | Light Fade Mid Rise Jeans | Clean Look",
+      "category":"Jeans",
+      "gender":"Female"
+   },
+   {
+      "id":10,
+      "imageUrl":"jeans/10.1.jpeg",
+      "name":"Sfine Slim Women Blue Jeans",
+      "price":"Rs. 749",
+      "description":"Fit: Slim Fit | Fabric: Denim | Mid Rise Jeans | Clean Look",
+      "category":"Jeans",
+      "gender":"Female"
+   },
+   {
+      "id":11,
+      "imageUrl":"shirts/1.1.jpeg",
+      "name":"United Colors of Benetton. Men's Casual Shirt",
+      "price":"Rs. 1,704",
+      "description":"United Colors of Benetton. Men's Casual Shirt",
+      "category":"Shirts",
+      "gender":"Male"
+   },
+   {
+      "id":12,
+      "imageUrl":"shirts/2.1.jpeg",
+      "name":"Deeksha Men's Solid Casual Button Down Shirt",
+      "price":"Rs. 319",
+      "description":"Deeksha Men's Solid Casual Button Down Shirt",
+      "category":"Shirts",
+      "gender":"Male"
+   },
+   {
+      "id":13,
+      "imageUrl":"shirts/3.1.jpeg",
+      "name":"United Colors of Benetton. Men's Self Design Casual Mandarin Collar Shirt",
+      "price":"Rs. 2,034",
+      "description":"Fabric: Cotton | Regular Fit, Full Sleeve | Collar Type: Mandarin Collar | Pattern: Self Design | Set of 1",
+      "category":"Shirts",
+      "gender":"Male"
+   },
+   {
+      "id":14,
+      "imageUrl":"shirts/4.1.jpeg",
+      "name":"United Colors of Benetton. Men's Self Design Casual Slim Collar Shirt",
+      "price":"Rs. 1,704",
+      "description":"Fabric: Cotton | Slim Fit, Full Sleeve | Collar Type: Slim Collar | Pattern: Self Design | Set of 1",
+      "category":"Shirts",
+      "gender":"Male"
+   },
+   {
+      "id":15,
+      "imageUrl":"shirts/5.1.jpeg",
+      "name":"Rodid Men's Solid Casual Spread Shirt",
+      "price":"Rs. 524",
+      "description":"Fabric: Cotton | Regular Fit, Full Sleeve | Collar Type: Spread | Pattern: Solid | Set of 1",
+      "category":"Shirts",
+      "gender":"Male"
+   },
+   {
+      "id":16,
+      "imageUrl":"shirts/6.1.jpeg",
+      "name":"United Colors of Benetton. Men's Printed Casual Spread Collar Shirt",
+      "price":"Rs. 1,271",
+      "description":"Fabric: Cotton | Regular Fit, Full Sleeve | Collar Type: Spread Collar | Pattern: Printed | Set of 1",
+      "category":"Shirts",
+      "gender":"Male"
+   },
+   {
+      "id":17,
+      "imageUrl":"shirts/7.1.jpeg",
+      "name":"Provogue Women's Printed Casual Spread Shirt",
+      "price":"Rs. 366",
+      "description":"Fabric: Rayon | Regular Fit, 3/4th Sleeve | Collar Type: Spread | Pattern: Printed | Set of 1",
+      "category":"Shirts",
+      "gender":"Female"
+   },
+   {
+      "id":18,
+      "imageUrl":"shirts/8.1.jpeg",
+      "name":"Trendyfrog Women Solid Casual Shirt",
+      "price":"Rs. 450",
+      "description":"Fabric: Denim | Regular Fit, Full Sleeve | Pattern: Solid | Set of 1",
+      "category":"Shirts",
+      "gender":"Female"
+   },
+   {
+      "id":19,
+      "imageUrl":"shirts/9.1.jpeg",
+      "name":"theFASHIONEXPERT Women Checkered Casual Shirt",
+      "price":"Rs. 333",
+      "description":"Fabric: Rayon | Regular Fit, Roll-up Sleeve | Pattern: Checkered | Set of 1",
+      "category":"Shirts",
+      "gender":"Female"
+   },
+   {
+      "id":20,
+      "imageUrl":"shirts/10.1.jpeg",
+      "name":"Farha Women's Solid Casual Shirt",
+      "price":"Rs. 396",
+      "description":"Fabric: Rayon | Regular Fit, Roll-up Sleeve | Pattern: Checkered | Set of 1",
+      "category":"Shirts",
+      "gender":"Female"
+   },
+   {
+      "id":21,
+      "imageUrl":"tshirts/1.1.jpeg",
+      "name":"Levi's Printed Men's Round Neck White T-Shirt",
+      "price":"Rs. 749",
+      "description":"Fabric: Cotton | Regular Fit Round Neck T-shirt | Pattern: Printed | Half Sleeve",
+      "category":"T-Shirts",
+      "gender":"Male"
+   },
+   {
+      "id":22,
+      "imageUrl":"tshirts/2.1.jpeg",
+      "name":"Puma Solid Men's Round Neck Dark Blue T-Shirt",
+      "price":"Rs. 818",
+      "description":"Fabric: Cotton | Regular Fit Round Neck T-shirt | Pattern: Solid | Half Sleeve",
+      "category":"T-Shirts",
+      "gender":"Male"
+   },
+   {
+      "id":23,
+      "imageUrl":"tshirts/3.1.jpeg",
+      "name":"Levi's Solid Men's Polo Neck Grey T-Shirt",
+      "price":"Rs. 1,073",
+      "description":"Fabric: Cotton | Slim Fit Polo Neck T-shirt | Pattern: Solid | Half Sleeve",
+      "category":"T-Shirts",
+      "gender":"Male"
+   },
+   {
+      "id":24,
+      "imageUrl":"tshirts/4.1.jpeg",
+      "name":"Levi's Solid Men's Polo Neck Dark Blue T-Shirt",
+      "price":"Rs. 1,249",
+      "description":"Fabric: Cotton | Regular Fit Polo Neck T-shirt | Pattern: Solid | Half Sleeve",
+      "category":"T-Shirts",
+      "gender":"Male"
+   },
+   {
+      "id":25,
+      "imageUrl":"tshirts/5.1.jpeg",
+      "name":"Levi's Printed Men's Round Neck Blue T-Shirt",
+      "price":"Rs. 1,013",
+      "description":"Fabric: Cotton | Regular Fit Round Neck T-shirt | Pattern: Printed | Half Sleeve",
+      "category":"T-Shirts",
+      "gender":"Male"
+   },
+   {
+      "id":26,
+      "imageUrl":"tshirts/6.1.jpeg",
+      "name":"Wrangler Printed Men's Round Neck Black T-Shirt",
+      "price":"Rs. 767",
+      "description":"Regular Fit Round Neck T-shirt | Pattern: Printed | Half Sleeve",
+      "category":"T-Shirts",
+      "gender":"Male"
+   },
+   {
+      "id":27,
+      "imageUrl":"tshirts/7.1.jpeg",
+      "name":"Vvoguish Casual 3/4th Sleeve Printed Women's Multicolor Top",
+      "price":"Rs. 450",
+      "description":"Round Neck, 3/4th Sleeve | Fabric: Cotton | Pattern: Printed | Type: Top | Pack of 1",
+      "category":"T-Shirts",
+      "gender":"Female"
+   },
+   {
+      "id":28,
+      "imageUrl":"tshirts/8.1.jpeg",
+      "name":"The Dry State Printed Women Round Neck Maroon T-Shirt",
+      "price":"Rs. 399",
+      "description":"Fabric: Cotton | Slim Fit Round Neck T-shirt | Pattern: Printed | Sleeve Type: Narrow 3/4 Sleeve",
+      "category":"T-Shirts",
+      "gender":"Female"
+   },
+   {
+      "id":29,
+      "imageUrl":"tshirts/9.1.jpeg",
+      "name":"Wrangler Printed Women's Round Neck Dark Blue T-Shirt",
+      "price":"Rs. 419",
+      "description":"Fabric: Cotton | Slim Fit Round Neck T-shirt | Pattern: Printed | Short Sleeve",
+      "category":"T-Shirts",
+      "gender":"Female"
+   },
+   {
+      "id":30,
+      "imageUrl":"tshirts/10.1.jpeg",
+      "name":"Metronaut Printed Women's Round Neck Maroon T-Shirt",
+      "price":"Rs. 426",
+      "description":"Fabric: Cotton | Regular Fit Round Neck T-shirt | Pattern: Printed | Sleeve Type: Narrow Full Sleeve",
+      "category":"T-Shirts",
+      "gender":"Female"
+   },
+   {
+      "id":31,
+      "imageUrl":"sportswear/1.1.jpeg",
+      "name":"Campus Sutra Polka Print Men Polo Neck Black T-Shirt",
+      "price":"Rs. 461",
+      "description":"Fabric: Polyester | Regular Fit Polo Neck T-shirt | Pattern: Polka Print | Sleeve Type: Narrow Half Sleeve",
+      "category":"Sportswear",
+      "gender":"Male"
+   },
+   {
+      "id":32,
+      "imageUrl":"sportswear/2.1.jpeg",
+      "name":"ADIDAS Solid Men's Round Neck White T-Shirt",
+      "price":"Rs. 1,054",
+      "description":"Fabric: Polyester | Regular Fit Round Neck T-shirt | Pattern: Solid | Half Sleeve",
+      "category":"Sportswear",
+      "gender":"Male"
+   },
+   {
+      "id":33,
+      "imageUrl":"sportswear/3.1.jpeg",
+      "name":"Nike Self Design Men's Round Neck Black, Blue T-Shirt",
+      "price":"Rs. 1,197",
+      "description":"Fabric: Polyester | Regular Fit Round Neck T-shirt | Pattern: Self Design | Half Sleeve",
+      "category":"Sportswear",
+      "gender":"Male"
+   },
+   {
+      "id":34,
+      "imageUrl":"sportswear/4.1.jpeg",
+      "name":"Alan Jones Solid Men's Dark Blue Track Pants",
+      "price":"Rs. 599",
+      "description":"Ideal For: Men's | Fabric: Cotton Fleece | Pattern: Solid | Usage: Sportswear",
+      "category":"Sportswear",
+      "gender":"Male"
+   },
+   {
+      "id":35,
+      "imageUrl":"sportswear/5.1.jpeg",
+      "name":"Nike Solid Men's Black Track Pants",
+      "price":"Rs. 2,246",
+      "description":"Ideal For: Men's | Fabric: Polyester | Pattern: Solid | Usage: Sportswear",
+      "category":"Sportswear",
+      "gender":"Male"
+   },
+   {
+      "id":36,
+      "imageUrl":"sportswear/6.1.jpeg",
+      "name":"Neva Solid Men Track Suit",
+      "price":"Rs. 1,434",
+      "description":"Men | Pattern: Solid | Fabric: Blended",
+      "category":"Sportswear",
+      "gender":"Male"
+   },
+   {
+      "id":37,
+      "imageUrl":"sportswear/7.1.jpeg",
+      "name":"Ajile by Pantaloons Printed Women's Grey Track Pants",
+      "price":"Rs. 627",
+      "description":"Ideal For: Women's | Fabric: Cotton Lycra | Pattern: Printed | Usage: Sportswear",
+      "category":"Sportswear",
+      "gender":"Female"
+   },
+   {
+      "id":38,
+      "imageUrl":"sportswear/8.1.jpeg",
+      "name":"Nike Solid Women's Round Neck Black T-Shirt",
+      "price":"Rs. 833",
+      "description":"Fabric: Polyester | Slim Fit Round Neck T-shirt | Pattern: Solid | Short Sleeve",
+      "category":"Sportswear",
+      "gender":"Female"
+   },
+   {
+      "id":39,
+      "imageUrl":"sportswear/9.1.jpeg",
+      "name":"REEBOK Solid Women's Red Track Pants",
+      "price":"Rs. 679",
+      "description":"Ideal For: Women's | Fabric: Cotton | Pattern: Solid | Usage: Sportswear",
+      "category":"Sportswear",
+      "gender":"Female"
+   },
+   {
+      "id":40,
+      "imageUrl":"sportswear/10.1.jpeg",
+      "name":"ADIDAS ORIGINALS Solid Women's Blue Track Pants",
+      "price":"Rs. 1,799",
+      "description":"Ideal For: Women's | Fabric: Polyester Cotton Blend | Pattern: Solid | Usage: Sportswear",
+      "category":"Sportswear",
+      "gender":"Female"
+   }
+]
